@@ -5,3 +5,4 @@ new.txt
 456
 789
 lkz
+lkz
